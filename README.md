@@ -40,6 +40,19 @@
 
 <br>
 
+---
+
+<div align="center">
+  <h3>Holopins 🎖️</h3>
+  <a href="https://holopin.io/@sahilsharda">
+    <img src="https://holopin.me/sahilsharda" alt="Holopin Badges" />
+  </a>
+</div>
+
+---
+
+<br>
+
 <div align="center">
   <h3>Hey, I'm <b>Sahil</b> 👋</h3>
   <p><i>A curious developer who loves turning ideas into reality through code</i></p>
@@ -181,15 +194,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil5H4RD4&theme=react-dark&area=true&hide_border=true" height="300" alt="activity-graph graph" />
-</div>
-
----
-
-<div align="center">
-  <h3>Holopins 🎖️</h3>
-  <a href="https://holopin.io/@sahilsharda">
-    <img src="https://holopin.me/sahilsharda" alt="Holopin Badges" />
-  </a>
 </div>
 
 ---
