@@ -40,6 +40,11 @@
 
 <br>
 
+<div align="center">
+  <h3>Hey, I'm <b>Sahil</b> 👋</h3>
+  <p><i>A curious developer who loves turning ideas into reality through code</i></p>
+</div>
+
 ---
 
 <div align="center">
@@ -50,13 +55,6 @@
 </div>
 
 ---
-
-<br>
-
-<div align="center">
-  <h3>Hey, I'm <b>Sahil</b> 👋</h3>
-  <p><i>A curious developer who loves turning ideas into reality through code</i></p>
-</div>
 
 <br>
 
