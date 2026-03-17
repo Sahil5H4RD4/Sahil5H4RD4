@@ -1,7 +1,4 @@
 
-<!-- Last updated: January 15, 2026 -->
-
-<!-- Header Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E71D36&height=120&section=header&text=Sahil%20Manjhi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
